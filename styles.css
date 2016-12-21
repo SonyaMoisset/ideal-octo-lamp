@@ -1,0 +1,17 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+
+.demo-card-wide > .mdl-card__title {
+  color: #aaa;
+  height: 176px;
+  background: url("https://unsplash.com/photos/lVDnLUACI18") center / cover;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #aaa;
+}
